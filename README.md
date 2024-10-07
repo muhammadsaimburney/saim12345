@@ -6,3 +6,7 @@ This project is for learning base
 
 * Hello world
 
+### Bike Image
+
+<img src="img/01.webp" alt="bike image" width="250">
+
